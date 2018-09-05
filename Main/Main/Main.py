@@ -1,7 +1,6 @@
 print('Hello GitHub')
 print('Hello DURBEXA')
-a = 10
-a += 1
-if a == 11:
-    a = 9
 
+Stas = input ('if u do it - print 1')
+if Stas == '1':
+    print('congratulations')
