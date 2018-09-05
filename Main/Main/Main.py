@@ -6,5 +6,6 @@ if Stas == '1':
     print('congratulations')
 
 a = 10
-print('Igor pisa 228')
 a += 1
+
+print("if you see that, thanks god")
